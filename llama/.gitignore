@@ -33,7 +33,6 @@ ggml-metal-embed.metal
 lcov-report/
 gcovr-report/
 
-build*
 cmake-build-*
 out/
 tmp/
